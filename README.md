@@ -1,2 +1,3 @@
 # azure-iam-portal
-Projeto de segurança e controle de acesso no Azure via portal gráfico
+![Azure IAM Banner](screenshots/banner.png)
+"Security and access control project in Azure via graphical portal.
